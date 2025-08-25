@@ -69,3 +69,13 @@ A fully functional deep learning model capable of classifying images with high a
 A deployed API or web application for real-time inference.
 
 Insights into deep learning model training, optimization, and deployment.
+
+# OUTPUT :
+
+Training Phase Output:
+Epoch 1/10 625/625 [==============================] - 45s 71ms/step - loss: 0.8975 -
+accuracy: 0.6854 - val_loss: 0.5632 - val_accuracy: 0.8056 Epoch 2/10 625/625
+[==============================] - 44s 70ms/step - loss: 0.5311 - accuracy: 0.8223 -
+val_loss: 0.4324 - val_accuracy: 0.8478 ... Epoch 10/10 625/625
+[==============================] - 44s 70ms/step - loss: 0.1102 - accuracy: 0.9632 -
+val_loss: 0.2341 - val_accuracy: 0.9276 Test Accuracy: 0.9294
